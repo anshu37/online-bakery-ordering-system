@@ -1,0 +1,536 @@
+#header
+{
+     position:absolute;
+	 top:0%;
+	 left:0%;
+    
+}	
+#b
+{
+     position:absolute;
+	 top:10%;
+	 left:94.4%;
+	
+}
+
+     	 
+ul
+{
+     margin:0px;
+	 padding:0px;
+	
+	 
+}
+#drop
+{
+	  position:absolute;
+	  top:19%;
+	  left:0%;
+	  z-index:1000;
+}	  
+ul li
+{
+     background-color:purple;
+	 border:1px solid white;
+     list-style:none;
+	 width:140px;
+	 float:left;
+	 line-height:30px;
+	 text-align:center;
+	 font-weight:bold;
+	
+}	
+.a1
+{
+     color:white;
+     text-decoration:none;
+}
+ul li:hover
+{
+     background-color:magenta;
+}
+ul li ul li
+{
+     display:none;
+	 
+}
+ul li:hover ul li
+{
+     display:block;
+}
+#link:hover
+{
+   
+     text-decoration:none;
+	 color:red;
+}
+#link
+{
+   
+     position:absolute;
+	 top:15%;
+	 left:94%;
+}
+#des img
+{
+ position:absolute;
+ top:25%;
+ left:1%;
+ height:40%;
+ width:98%;
+}
+#z
+{
+ position:absolute;
+ top:70%;
+ left:2%;
+ height:35%;
+ width:20%;
+}
+#z:hover
+{
+	 transform: scale(1.1);
+}
+#w:hover
+{
+	transform: scale(1.1);
+}
+#k:hover
+{
+	 transform: scale(1.1);
+}
+#i:hover
+{
+	 transform: scale(1.1);
+}
+#w
+{
+ position:absolute;
+ top:70%;
+ left:23%;
+ height:35%;
+ width:22%;
+}
+
+#k
+{
+ position:absolute;
+ top:70%;
+ left:48%;
+ height:35%;
+ width:25%;
+}
+#i
+{
+ position:absolute;
+ top:70%;
+ left:75%;
+ height:35%;
+ width:20%;
+}
+#h
+{
+ position:absolute;
+ top:62%;
+ left:2%;
+
+}
+#s
+{
+ position:absolute;
+ top:102%;
+ left:2%;
+ color:purple;
+}
+#ch
+{
+ position:absolute;
+ top:102%;
+ left:27%;
+ color:purple;
+}
+#st
+{
+ position:absolute;
+ top:102%;
+ left:50%;
+ color:purple;
+}
+#mn
+{
+ position:absolute;
+ top:102%;
+ left:80%;
+ color:purple;
+}
+#le
+{
+	position:absolute;
+    top:109%;
+    left:2%;
+}
+#hh
+{
+	position:absolute;
+    top:110%;
+    left:2%;
+}	
+#x
+
+{
+ position:absolute;
+ top:119%;
+ left:2%;
+ height:35%;
+ width:20%;
+}
+#x:hover
+{
+	transform: scale(1.5);
+}
+#c:hover
+{
+	transform: scale(1.5);
+}	
+#v:hover
+{
+	transform: scale(1.5);
+}
+#f:hover
+{
+	transform: scale(1.5);
+}
+#c
+{
+ position:absolute;
+ top:119%;
+ left:24%;
+ height:35%;
+ width:20%;
+}
+#v
+{
+ position:absolute;
+ top:119%;
+ left:47%;
+ height:35%;
+ width:20%;
+}
+#f
+{
+ position:absolute;
+ top:119%;
+ left:75%;
+ height:31%;
+ width:20%;
+}
+#rr
+{
+ position:absolute;
+ top:150%;
+ left:4%;
+ color:magenta;
+}
+#yr
+{
+ position:absolute;
+ top:150%;
+ left:27%;
+ color:magenta;
+}
+#or
+{
+ position:absolute;
+ top:150%;
+ left:53%;
+ color:magenta;
+}
+#pr
+{
+ position:absolute;
+ top:150%;
+ left:80%;
+ color:magenta;
+}
+#le2
+{
+	position:absolute;
+    top:157%;
+    left:2%;
+}
+	
+p::first-letter
+{
+	font-size:70px;
+	color:Purple;
+}
+	
+#l3
+{
+	position:absolute;
+    top:250%;
+    left:2%;
+}
+#com
+{
+    position:absolute;
+    top:251%;
+    left:2%;
+}
+#co
+{
+ position:absolute;
+ top:260%;
+ left:2%;
+ height:30%;
+ width:20%;
+}
+#cb
+{
+ position:absolute;
+ top:260%;
+ left:24%;
+ height:30%;
+ width:20%;
+}
+#sn
+{
+ position:absolute;
+ top:260%;
+ left:47%;
+ height:30%;
+ width:20%;
+}
+#sw
+{
+ position:absolute;
+ top:260%;
+ left:75%;
+ height:30%;
+ width:20%;
+}
+#co:hover
+{
+	transform: scale(1.3);
+}
+.cd:hover
+{
+	transform: scale(1.5);
+}
+#cb:hover
+{
+	transform: scale(1.3);
+}
+#sn:hover
+{
+	transform: scale(1.3);
+}
+#sw:hover
+{
+	transform: scale(1.3);
+}
+#g1
+{
+ position:absolute;
+ top:291%;
+ left:2%;
+ color:blue;
+}
+#g2
+{
+ position:absolute;
+ top:291%;
+ left:26%;
+ color:blue;
+}
+#g3
+{
+ position:absolute;
+ top:291%;
+ left:48%;
+ color:blue;
+}
+#g4
+{
+ position:absolute;
+ top:291%;
+ left:75%;
+ color:blue;
+}
+#l4
+{
+	position:absolute;
+    top:302%;
+    left:2%;
+}
+#footer
+{
+	position:absolute;
+	top:430%;
+	left:0%;
+	background-color:black;
+	height:20%;
+	width:100%;
+}	
+h4
+{
+    
+   color:white;
+   position:absolute;
+   top:45%;
+   left:40%;
+}
+#wi
+{
+    position:absolute;
+	top:4%;
+    left:46%;
+}
+#footer #abc 
+{
+    position:absolute;
+	top:10%;
+    left:3%;
+	color:white;
+}
+#footer #def 
+{
+    position:absolute;
+	top:35%;
+    left:3%;
+	color:white;
+}
+#footer #fgh 
+{
+    position:absolute;
+	top:63%;
+    left:3%;
+	color:white;
+}
+#footer #right 
+{
+    position:absolute;
+	top:8%;
+    left:88%;
+	color:white;
+}
+#tr
+{
+	position:absolute;
+	top:129%;
+    left:71%;
+}
+.topnav .search-container {
+  float: right;
+}
+
+.topnav input[type=text] {
+  padding: 2.5px;
+  margin-top: 7px;
+  font-size: 17px;   
+}
+
+.topnav .search-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 7px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+#middle
+{
+	position:absolute;
+	top:163%;
+	left:25%;
+}	
+h3
+{
+	position:absolute;
+	top:80%;
+}
+#treat
+{
+    position:absolute;
+    top:115%;
+	left:73%;
+}
+#review
+{
+    position:absolute;
+    top:115%;
+	left:13%;
+}
+
+	
+
+.slider-container
+{  
+  height: 40%;
+  width: 54%;
+  position: relative;
+  top:385%;
+  left:10%;
+  overflow: hidden; 
+  text-align: center;
+}
+
+.menu {
+  position: absolute;
+  left: 0;
+  z-index: 900;
+  width: 100%;
+  bottom: 0;
+}
+
+.menu label {
+  cursor: pointer;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: red;
+  border-radius: 50px;
+  margin: 0 .2em 1em;
+  &:hover {
+    background: red;
+  }
+}
+
+.slide {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  z-index: 10;
+  padding: 8em 1em 0;
+  background-size: cover;
+  background-position: 50% 50%;
+  transition: left 0s .75s;
+}
+
+[id^="slide"]:checked + .slide {
+  left: 0;
+  z-index: 100;
+  transition: left .65s ease-out;
+}
+
+.slide-1 {
+  background-image: url("bb.png");
+}
+.slide-2 {
+  background-image: url("re2.png");
+}
+.slide-3 {
+  background-image: url("last.png");
+}
+
+#date
+{
+	position:absolute;
+	top:2%;
+	left:26%;
+	font-weight:bold;
+}		

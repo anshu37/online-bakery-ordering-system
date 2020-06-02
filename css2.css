@@ -1,0 +1,124 @@
+#header
+{
+     position:absolute;
+	 top:0%;
+	 left:0%;
+    
+}	
+#b
+{
+     position:absolute;
+	 top:10%;
+	 left:94.4%;
+	
+}
+     	 
+ul
+{
+     margin:0px;
+	 padding:0px;
+	
+	 
+}
+#drop
+{
+	  position:absolute;
+	  top:19%;
+	  left:0%;
+	  z-index:1000;
+}	  
+ul li
+{
+     background-color:purple;
+	 border:1px solid white;
+     list-style:none;
+	 width:190px;
+	 float:left;
+	 line-height:30px;
+	 text-align:center;
+	 font-weight:bold;
+	
+}	
+.a1
+{
+     color:white;
+     text-decoration:none;
+}
+ul li:hover
+{
+     background-color:magenta;
+}
+ul li ul li
+{
+     display:none;
+	 
+}
+ul li:hover ul li
+{
+     display:block;
+}
+ 
+h4
+{
+    
+   color:white;
+   position:absolute;
+   top:45%;
+   left:40%;
+}
+ 	
+#wi
+{
+    position:absolute;
+	top:4%;
+    left:46%;
+}
+#footer #abc 
+{
+    position:absolute;
+	top:10%;
+    left:3%;
+	color:white;
+}
+#footer #def 
+{
+    position:absolute;
+	top:35%;
+    left:3%;
+	color:white;
+}
+#footer #fgh 
+{
+    position:absolute;
+	top:63%;
+    left:3%;
+	color:white;
+}
+#footer #right 
+{
+    position:absolute;
+	top:8%;
+    left:88%;
+	color:white;
+}
+#footer
+{
+	position:absolute;
+	top:160%;
+	left:0%;
+	background-color:black;
+	height:20%;
+	width:100%;
+}
+#hey
+{
+	width:200px;
+	height:200px;
+	background-color:white;
+	color:black;
+	margin-top:20px;
+	margin-left:20px;
+	font-size:20px;				
+}
+	
+          
